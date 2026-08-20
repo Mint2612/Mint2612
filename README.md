@@ -8,11 +8,11 @@
 ---
 
 ### 🙋 About Me
-- 🎓 [FILL IN: student / self-taught / working at ...]
-- 🌱 Currently learning **[FILL IN: e.g. Python, Linux system administration, ...]**
-- 🐧 I use Linux btw
-- 💬 Ask me about **[FILL IN: your favorite topics]**
-- 📫 How to reach me: **quocthaile2612@gmail.com**
+- 👦 Full name: Quoc Thai Le
+- 🎓 Education: Ho Chi Minh City University of Technology ( HCMUT )
+- 🌱 Career Desire: Software Engineer ( To build light, fast but user-friendly applications )
+- 🐧 I use Linux btw 
+- 💬 Ask me about **Distros and Performance**
 
 ---
 
@@ -32,28 +32,17 @@
 ---
 
 ### 🛠️ Tech Stack
+💻 Languages
 
-<p align="left">
-  <!-- Xoá dòng nào không dùng, thêm badge khác tại https://simpleicons.org -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> </p>
 
----
+🐧 Distros: 
 
-### 📊 GitHub Stats
+<p align="left"> <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" /> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> </p>
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mint2612&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mint2612&layout=compact&theme=radical" />
-</p>
+🧰 Tools
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mint2612&theme=radical" />
-</p>
-
+<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p> <!-- Thêm nhóm khác nếu cần, ví dụ: **⚙️ Frameworks** <p align="left"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> </p> -->
 ---
 
 <p align="center"><i>Thanks for stopping by! ⭐ from Mint2612</i></p>

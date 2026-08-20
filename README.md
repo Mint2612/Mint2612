@@ -54,7 +54,7 @@
 </p>
 
 <p align="left">
-  📱 Zalo: <b>0787309225</b> &nbsp;|&nbsp; 💬 WhatsApp: <b>0787309225</b>
+  📱 PhoneNumber: <b>0787309225</b> 
 </p>
 
 ---

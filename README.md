@@ -16,6 +16,21 @@
 
 ---
 
+### 🌐 Connect with me
+
+<p align="left">
+  <!-- WhatsApp: thay 84xxxxxxxxx bằng số điện thoại của bạn, định dạng quốc tế không có dấu + hoặc số 0 đầu -->
+  <a href="https://wa.me/84787309225" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://zalo.me/0787309225" target="_blank"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
+  <a href="mailto:quocthaile2612@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="left">
+  📱 PhoneNumber: <b>0787309225</b> 
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -37,21 +52,6 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mint2612&theme=radical" />
-</p>
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <!-- WhatsApp: thay 84xxxxxxxxx bằng số điện thoại của bạn, định dạng quốc tế không có dấu + hoặc số 0 đầu -->
-  <a href="https://wa.me/84787309225" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://zalo.me/0787309225" target="_blank"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
-  <a href="mailto:quocthaile2612@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="left">
-  📱 PhoneNumber: <b>0787309225</b> 
 </p>
 
 ---

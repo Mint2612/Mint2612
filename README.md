@@ -47,10 +47,14 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <!-- Thay link thật vào, xoá dòng nào không dùng -->
-  <a href="https://facebook.com/FILL_IN" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/FILL_IN" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <!-- WhatsApp: thay 84xxxxxxxxx bằng số điện thoại của bạn, định dạng quốc tế không có dấu + hoặc số 0 đầu -->
+  <a href="https://wa.me/84787309225" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://zalo.me/0787309225" target="_blank"><img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" /></a>
   <a href="mailto:quocthaile2612@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="left">
+  📱 Zalo: <b>0787309225</b> &nbsp;|&nbsp; 💬 WhatsApp: <b>0787309225</b>
 </p>
 
 ---

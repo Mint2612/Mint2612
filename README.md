@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=I+use+Linux+btw;KISS+-+Keep+it+simple%2C+stupid;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mint2612&label=Profile%20views&color=0e75b6&style=flat" alt="Mint2612" />
-</p>
 
 ---
 
